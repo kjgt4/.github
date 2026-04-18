@@ -1,0 +1,5 @@
+{
+  "name": "Claude",
+  "description": "Respond to @claude mentions in issues and PRs via the shared reusable workflow.",
+  "categories": ["Automation"]
+}
